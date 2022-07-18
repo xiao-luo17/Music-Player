@@ -1,0 +1,21 @@
+#pragma once
+#include <Audioclient.h>
+#include <ShlObj.h>
+#include <Windows.h>
+#include <conio.h>
+#include <cstdbool>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <ctime>
+#include <endpointvolume.h>
+#include <fstream>
+#include <io.h>
+#include <iostream>
+#include <mmdeviceapi.h> 
+#include <mmsystem.h>
+#include <string>
+#include <strsafe.h>
+#include <vector>
+#include <graphics.h>
+#pragma comment(lib, "winmm.lib")
