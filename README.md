@@ -17,6 +17,16 @@ git clone https://github.com/xiao-luo17/Music-Player.git
 ```
 1. 项目使用visual studio构建，建议使用vs打开
 
+   - 新建vs空项目
+
+   - 缺少.vs缓存文件，源文件（.cpp和.h）需要手动导入.cpp和.h文件
+   
+   - 打开项目后：
+   
+     - 项目 -> 项目属性 -> 配置属性 -> C/C++ -> 常规 -> 关闭SDL检查
+     
+     - 项目 -> 项目属性 -> 配置属性 -> 高级 -> 使用多字节字符集
+
 2. 部署完成后 修改项目代码中所有图片资源为本地绝对路径，图片在项目的picture文件夹下（相对路径可能无法成功运行）
 
 3. 使用了easyx实现图形界面，请先安装easyx的vs2019版本==><a href="https://easyx.cn/">`easyx图形库传送门`</a>
