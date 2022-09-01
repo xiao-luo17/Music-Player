@@ -31,7 +31,7 @@ git clone https://github.com/xiao-luo17/Music-Player.git
 
 3. 使用了easyx实现图形界面，请先安装easyx的vs2019版本==><a href="https://easyx.cn/">`easyx图形库传送门`</a>
 
-点击项目sln文件即可运行
+> 点击项目sln文件即可运行
 
 ### 功能
 
